@@ -10,3 +10,4 @@
 </body>
 </html>
 print("Hello, World!")
+git config --global user.name "rachana" | git config --global user.email "rachana@gmail.com"git config --global user.name "rachana" | git config --global user.email "rachana@gmail.com"
